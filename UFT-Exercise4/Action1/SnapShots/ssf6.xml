@@ -1,0 +1,41 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf6.html</FileName>
+				<URL>http://nimbusserver.aos.com:8000/#/category/Laptops/1</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://nimbusserver.aos.com:8000/#/category/Laptops/1</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;).Link(&quot;accordionPrice&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>248</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>text</PropName>
+						<PropVal>PRICE</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Link</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>H4</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//H4[@id=&quot;accordionPrice&quot;]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>

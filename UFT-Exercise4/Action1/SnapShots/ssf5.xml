@@ -1,0 +1,41 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf5.html</FileName>
+				<URL>http://nimbusserver.aos.com:8000/#/</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://nimbusserver.aos.com:8000/#</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;).Link(&quot;laptopsImg&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>237</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>text</PropName>
+						<PropVal>LAPTOPSShop Now</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Link</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>DIV</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[@id=&quot;laptopsImg&quot;]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>
