@@ -1,0 +1,3 @@
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("micesImg").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("micesImg")_;_script infofile_;_ssf1.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image_id=5505").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image id5505")_;_script infofile_;_ssf2.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("bunny").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("bunny")_;_script infofile_;_ssf3.xml_;_
